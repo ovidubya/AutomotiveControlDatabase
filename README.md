@@ -7,6 +7,7 @@ Readme File
 Setup Instructions for Final Project
 
 We use phpmyadamin and MySQL running on a local webserver hosted through WAMPServer.
+Link to live site: http://oshalom.host22.com
 
 Step 1: Download and install WAMPServer from http://www.wampserver.com/en/.
 
